@@ -1,0 +1,5 @@
+C:\Users\eahscs\AppData\Local\Temporary Projects\Methods\bin\Debug\Methods.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Methods\bin\Debug\Methods.pdb
+C:\Users\eahscs\AppData\Local\Temporary Projects\Methods\obj\x86\Debug\Methods.exe
+C:\Users\eahscs\AppData\Local\Temporary Projects\Methods\obj\x86\Debug\Methods.pdb
+C:\Users\eahscs\Documents\GitHub\Methods\Methods\obj\x86\Debug\Methods.exe
