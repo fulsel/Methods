@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Methods\Monogram\bin\Debug\Monogram.exe
+C:\Users\eahscs\Documents\GitHub\Methods\Monogram\bin\Debug\Monogram.pdb
+C:\Users\eahscs\Documents\GitHub\Methods\Monogram\obj\x86\Debug\Monogram.exe
+C:\Users\eahscs\Documents\GitHub\Methods\Monogram\obj\x86\Debug\Monogram.pdb

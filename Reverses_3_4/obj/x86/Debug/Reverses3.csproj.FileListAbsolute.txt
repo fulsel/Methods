@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Methods\Reverses_3_4\bin\Debug\Reverses_3_4.exe
+C:\Users\eahscs\Documents\GitHub\Methods\Reverses_3_4\bin\Debug\Reverses_3_4.pdb
+C:\Users\eahscs\Documents\GitHub\Methods\Reverses_3_4\obj\x86\Debug\Reverses_3_4.exe
+C:\Users\eahscs\Documents\GitHub\Methods\Reverses_3_4\obj\x86\Debug\Reverses_3_4.pdb
