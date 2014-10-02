@@ -1,0 +1,4 @@
+C:\Users\eahscs\Documents\GitHub\Methods\WiggityWiggityWhack\bin\Debug\WiggityWiggityWhack.exe
+C:\Users\eahscs\Documents\GitHub\Methods\WiggityWiggityWhack\bin\Debug\WiggityWiggityWhack.pdb
+C:\Users\eahscs\Documents\GitHub\Methods\WiggityWiggityWhack\obj\x86\Debug\WiggityWiggityWhack.exe
+C:\Users\eahscs\Documents\GitHub\Methods\WiggityWiggityWhack\obj\x86\Debug\WiggityWiggityWhack.pdb

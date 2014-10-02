@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse3", "Reverses_3_4\Re
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reverse4", "Reverse4\Reverse4.csproj", "{16FFE584-8C12-485A-B249-33FF2CDB4C68}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WiggityWiggityWhack", "WiggityWiggityWhack\WiggityWiggityWhack.csproj", "{77741F1E-A3E9-41E8-A204-460D39047C80}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -43,6 +45,10 @@ Global
 		{16FFE584-8C12-485A-B249-33FF2CDB4C68}.Debug|x86.Build.0 = Debug|x86
 		{16FFE584-8C12-485A-B249-33FF2CDB4C68}.Release|x86.ActiveCfg = Release|x86
 		{16FFE584-8C12-485A-B249-33FF2CDB4C68}.Release|x86.Build.0 = Release|x86
+		{77741F1E-A3E9-41E8-A204-460D39047C80}.Debug|x86.ActiveCfg = Debug|x86
+		{77741F1E-A3E9-41E8-A204-460D39047C80}.Debug|x86.Build.0 = Debug|x86
+		{77741F1E-A3E9-41E8-A204-460D39047C80}.Release|x86.ActiveCfg = Release|x86
+		{77741F1E-A3E9-41E8-A204-460D39047C80}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
